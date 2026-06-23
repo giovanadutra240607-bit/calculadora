@@ -1,9 +1,3 @@
-# Calculadora em Java
-
-Projeto de uma calculadora feita para ser utilizada no terminal.
-
-O código foi escrito de maneira simples para ajudar quem está começando a
-estudar Java.
 
 ## Funcionalidades
 
